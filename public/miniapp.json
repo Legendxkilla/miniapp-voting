@@ -1,7 +1,7 @@
 {
   "id": "base-voting",
   "name": "Base Voting",
-  "url": "https://your-vercel-domain.vercel.app",
+  "url": "https://miniapp-voting.vercel.app",
   "iconUrl": "https://your-vercel-domain.vercel.app/icon.png",
   "description": "Vote for your favorite party on Base Mainnet",
   "developer": {
