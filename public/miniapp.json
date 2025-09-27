@@ -1,0 +1,11 @@
+{
+  "id": "base-voting",
+  "name": "Base Voting",
+  "url": "https://your-vercel-domain.vercel.app",
+  "iconUrl": "https://your-vercel-domain.vercel.app/icon.png",
+  "description": "Vote for your favorite party on Base Mainnet",
+  "developer": {
+    "name": "legendxkilla",
+    "url": "https://yourwebsite.xyz"
+  }
+}
