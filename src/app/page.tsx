@@ -10,7 +10,7 @@ export default function Home() {
   const [votes, setVotes] = useState<number[]>([]);
   const [status, setStatus] = useState("");
 
-  const RPC_URL = "https://base-mainnet.g.alchemy.com/v2/YOUR_ALCHEMY_KEY"; // EDIT THIS
+  const RPC_URL = "https://base-mainnet.g.alchemy.com/v2/njCR1-ocWHy6tz0QosZPl9ar2-ieR8eD"; // EDIT THIS
   const provider = new ethers.JsonRpcProvider(RPC_URL);
 
   useEffect(() => {
