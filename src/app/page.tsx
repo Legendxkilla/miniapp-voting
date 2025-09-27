@@ -36,7 +36,7 @@ export default function Home() {
 
   async function vote(index: number) {
     try {
-      const ethProvider = await sdk.wallet.getEthereumProvider();
+      const ethProvider: any = await sdk.wallet.getEthereumProvider();
       const signerProvider = new ethers.BrowserProvider(ethProvider);
       const signer = await signerProvider.getSigner();
       const contract = new ethers.Contract(CONTRACT_ADDRESS, ABI, signer);
