@@ -3,7 +3,7 @@ export const metadata = {
   description: "Voting DApp on Base",
   other: {
     "fc:frame": "vNext",
-    "fc:miniapp": "https://your-vercel-domain.vercel.app/miniapp.json"
+    "fc:miniapp": "https://miniapp-voting.vercel.app/miniapp.json"
   }
 };
 
